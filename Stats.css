@@ -1,0 +1,21 @@
+/* Stats.css */
+.character-stats {
+    margin-top: 20px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    background: #f4f4f4;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 4px;
+  }
+  
+  strong {
+    margin-right: 5px;
+  }
+  
